@@ -84,7 +84,7 @@ The contracts are deployed at:
 
 1. Clone and install dependencies:
 ```bash
-git clone https://github.com/Wasif445/monad
+git clone https://github.com/Wasif445/nexus
 cd nexus-swap-example
 ```
 
